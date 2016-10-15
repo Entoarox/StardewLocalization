@@ -6,6 +6,7 @@
 	"cancel": "Annuleer",
 	"updateAvailable": "een update voor {$0} naar versie ={$1}= is beschikbaar, je wordt geadviseerd om naar deze versie te updaten, bezoek &gt;{$2}@ om te update te downloaden. Als je geen popup update notificaties wilt zien kun je dit in het configuratie bestand veranderen.",
 	"updateRequired": "De versie van {$0} die je gebruikt is ernstig verouderd, ter beveiliging van je savegame is een update vereist om {$0} te kunnen blijven gebruiken.",
-	"depOutdated": "{$0} heeft gedetecteerd dat de versie van {$1} ernstig verouderd is, ter beveiliging van je savegame is een update vereist om {$0} te kunnen blijven gebruiken.", "fatalError": "{$0} heeft een probleem gedetecteerd dat ervoor zorgt dat het niet goed werkt, sluit AUB het spel en rapporteer het probleem in {$0}'s forum topic.",
+	"depOutdated": "{$0} heeft gedetecteerd dat de versie van {$1} ernstig verouderd is, ter beveiliging van je savegame is een update vereist om {$0} te kunnen blijven gebruiken.",
+	"fatalError": "{$0} heeft een probleem gedetecteerd dat ervoor zorgt dat het niet goed werkt, sluit AUB het spel en rapporteer het probleem in {$0}'s forum topic.",
 	"integrityError": "Een kind-mod van {$0} kan mogelijk je savegame beschadigen, kijk ze AUB een voor een na om de schuldige mod te vinden en verwijder het daarna."
 }

@@ -1,0 +1,12 @@
+{
+    "glint": "Despite the sparkle you thought you saw, there doesnt seem to be anything interesting here",
+    "noStock": "Sorry, I'm all out of stock...",
+    "gold": "Gold",
+    "notEnough": "You do not have enough {$0} to do this",
+    "cancel": "Cancel",
+    "updateAvailable": "A update for {$0} to version ={$1}= is available, you are recommended to update to this version, visit >{$2}@ to download it. If you do not wish to receive update notifications in-game like this you can change it in the config file.",
+    "updateRequired": "The version of {$0} you are using is heavily outdated, for the security of your savefile, you have to update ALL in order to continue using it.",
+    "depOutdated": "{$0} has detected that the version of {$1} you are using is heavily outdated, for the security of your savefile, you need to update it in order to continue using {$0}.",
+    "fatalError": "{$0} has encountered a error that prevents it from being able to work, please close your game and report the error in {$0}'s forum topic",
+    "integrityError": "A child mod for {$0} could potentially damage your save file, please check them one by one to find the culprit and remove it."
+}

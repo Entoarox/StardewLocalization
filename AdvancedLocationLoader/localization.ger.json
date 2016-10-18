@@ -1,0 +1,12 @@
+{
+    "glint": "Trotz dem Glitzern, welches du dachtest gesehen zu haben, ist hier nichts interessantes.",
+    "noStock": "Entschuldigung, ich habe nichts mehr...",
+    "gold": "Gold",
+    "notEnough": "Du hast nicht genug {$0} um dies zu tuhen.",
+    "cancel": "Abbrechen",
+    "updateAvailable": "Ein Update von Version {$0} zu ={$1}= ist verfügbar. Es ist Empfohlen dieses herunterzuladen von >{$2}@ . Wenn du keine weiteren Updatehinweise erhalten möchtest, kannst du dies in der Konfigurationsdatei einstellen.",
+    "updateRequired": "Die Version {$0} ,die du benutzt ist sehr veraltet, für die Sicherheit deines Savegames musst du alles aktualisieren um fortzufahren.",
+    "depOutdated": "{$0} hat entdeckt, das die Version von {$1} die du Verwendest sehr veraltet ist. Für die Sicherheit deines Savegames musst du diesen Aktualisieren um weiter {$0} zu nutzen.",
+    "fatalError": "{$0} hat einen Fehler festegestellt und kann nicht Fortfahren, bitte schließe das Spiel und melde das Problem in {$0}'s Forum Thema.",
+    "integrityError": "Ein Untermod von {$0} könnte dein Savegame beschädigen, bitte überprüfe alle Untermods und entferne gegebenenfalls den Übeltäter."
+}

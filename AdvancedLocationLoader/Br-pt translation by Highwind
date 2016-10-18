@@ -1,0 +1,12 @@
+{
+    "glint": "Apesar do brilho que você achou ter visto, não parece haver nada de interessante aqui",
+    "noStock": "Minhas desculpas, o meu estoque acabou...",
+    "gold": "Ouro",
+    "notEnough": "Você não possui {$0} suficiente para fazer isto",
+    "cancel": "Cancelar",
+    "updateAvailable": "Uma atualização de {$0} para a versão ={$1}= está disponível. É recomendável que você atualize para esta versão, visite >{$2}@ para baixá-la. Se você não deseja receber notificações de atualizações como esta dentro do jogo, você pode mudar suas opções no arquivo config.",
+    "updateRequired": "A versão de {$0} que você está utilizando está extremamente desatualizada. Para a segurança do seu save, você deve atualizar TUDOpara que possa continuar utilizando-o.",
+    "depOutdated": "{$0} detectou que a versão de {$1} que você está utilizando está extremamente desatualizada. Para a segurança do seu save, é necessário que você o atualize para que possa continuar utilizando {$0}.",
+    "fatalError": "{$0} encontrou um erro que o impede de funcionar. Por favor, feche seu jogo e reporte o erro, preferencialmente em inglês, no tópico {$0} do fórum.",
+    "integrityError": "Um mod de crianças para {$0} pode potencialmente danificar seu fave. Favor conferir um por um para encontrar o culpado e elimine-o."
+}

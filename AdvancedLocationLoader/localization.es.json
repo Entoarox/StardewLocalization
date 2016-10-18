@@ -1,0 +1,12 @@
+{
+    "glint": "A pesar de los destellos pensaste que viste, no hay nada interesante aquí",
+    "noStock": "Lo siento, soy todos fuera de bienes...",
+    "gold": "Oro",
+    "notEnough": "No tienes lo suficiente {$0} como para hacer esto",
+    "cancel": "Cancelar",
+    "updateAvailable": "Hay disponible una actualización para {$0} versión ={$1}=, se recomienda actualizar a esta versión, visitar >{$2}@ para descargarlo. Si no desea recibir notificaciones de actualización en el juego como esto puede cambiar en el archivo de configuración.",
+    "updateRequired": "La versión de {$0} que está usando es muy anticuada, para la seguridad de tu savefile, tienes que actualizar ALL para continuar usándola.",
+    "depOutdated": "{$0} ha detectado que la versión de {$1} Usted está usando es muy anticuado, para la seguridad de tu savefile, necesita actualizarse para continuar usando {$0}.",
+    "fatalError": "{$0} ha encontrado un error que le impide poder trabajar, por favor, cierra tu juego y reportar el error en el tema del Foro de {$0}.",
+    "integrityError": "Un mod de niño para {$0} puede dañar su guardar archivo, por favor revise uno por uno para encontrar al culpable y quitarlo."
+}

@@ -1,0 +1,12 @@
+{
+    "glint": "Trots gnistan du trodde att du såg, så verkar det inte vara något intressant här",
+    "noStock": "Tyvärr, allt här helt slut...",
+    "gold": "Guld",
+    "notEnough": "Du har inte tillräckligt med {$0} för att göra detta",
+    "cancel": "Avbryt",
+    "updateAvailable": "En uppdatering för {$0} till version ={$1}= är tillgänglig, du rekommenderas att uppdatera till denna version, besök >{$2}@ för att ladda ner. Om du inte vill ta emot uppdateringsnotifieringar i spelet så kan du ändra det i konfigurationsfilen.",
+    "updateRequired": "Versionen {$0} du använder är starkt föråldrad, för säkerheten av din sparnings fil, måste du uppdatera ALLT för att fortsätta använda den.",
+    "depOutdated": "{$0} har upptäckt att versionen {$1} som du använder är starkt föråldrad, för säkerheten av din sparnings fil, behöver du uppdetara den för att forstätta använda {$0}",
+    "fatalError": "{$0} har stött på ett fel som hindrar det från att kunna fungera, vänligen stäng ner spelet och rapportera felet i {$0}'s forum ämne.",
+    "integrityError": "Ett under mod för {$0} skulle kunna skada din sparnings fil, kontrolla dem en efter en för att hitta den skyldige och ta bort den."
+}

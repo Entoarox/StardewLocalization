@@ -1,0 +1,11 @@
+{
+	"emptyBox":"Gewoon een lege doos.",
+	"cat":"Kat",
+	"dog":"Hond",
+	"adopt":"Oh nee, het lijkt alsof iemand hier een arme {$0} verlaten heeft! Je kunt Marnie {$1} goud betalen om het na te kijken zodat je het kan adopteren?",
+	"answerGold":"Helaas heb ik de {$0} goud vereist om dit te doen niet.",
+	"answerYes":"Ja, ik zal het arme dier direct adopteren!",
+	"answerNo":"Nee, ik heb niet genoeg ruimte ervoor.",
+	"chooseName":"Kies een naam",
+	"adopted":"Marnie zal {$0} bij je huis afleveren zodra ze hun spuiten hebben gehad en gekamd zijn."
+}

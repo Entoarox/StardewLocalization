@@ -1,0 +1,11 @@
+{
+ "emptyBox":"Rien qu'une boîte vide.",
+ "cat":"chat",
+ "dog":"Chien",
+ "adopt":" Ah, non! Il paraît que quelqu'un a abandoné un pauvre {$0} ici! Pensez-vous que ce serait bien de donner {$1} or à Marnie pour qu'elle lui donne un examen médical afin que vous puissiez l'adopter!",
+ "answerGold":"Malheureusement, il me manque le {$0} or qu'il me faut pour faire ceci.",
+ "answerYes":"Oui, je devrais adopter le pauvre animal!",
+ "answerNo":"Non, je n'ai pas assez d'espace pour l'acceuillir.",
+ "chooseName":"Choisissez un nom",
+ "adopted":"Marnie apportera {$0} à votre maison une fois qu'il a été vacciné et toiletté."
+}

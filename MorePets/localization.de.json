@@ -1,0 +1,11 @@
+{
+	"emptyBox":"Nur eine leere Box.",
+	"cat":"Kätzchen",
+	"dog":"Hündchen",
+	"adopt":"Oje, sieht so aus als hätte jemand ein armes {$0} hier ausgesetzt! Vielleicht solltest du Marnie {$1} Gold geben, damit sie es untersuchen, und du es adoptieren kannst",
+	"answerGold":"Unglücklicherweise habe ich nicht das benötigte {$0} Gold um das zu tun.",
+	"answerYes":"Ja, ich sollte das arme Tier wirklich adoptieren!",
+	"answerNo":"Nein, ich habe nicht den Platz, um es zu halten.",
+	"chooseName":"Wähle einen Namen",
+	"adopted":"Marnie wird {$0} zu deinem Haus bringen, sobald sie fertig ist."
+}

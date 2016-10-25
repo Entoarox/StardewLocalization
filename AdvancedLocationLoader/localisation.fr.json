@@ -1,0 +1,12 @@
+{
+    "glint": "Malgré le lustre que vous pensez avoir vu, il ne paraît pas qu'il y a quelque chose de spécial ici",
+    "noStock": "Désole, je suis en rupture de stock...",
+    "gold": "Or",
+    "notEnough": "Vous n'avez pas assez d'{$0} pour faire ceci",
+    "cancel": "Annulez",
+    "updateAvailable": "Une mis à jour pour {$0} à la version ={$1}= est disponible. Il est suggerée que vous installez cette version. Vous pouvez visiter >{$2}@ Pour l'installer. Si vous ne voulez pas recevoir les notifications en-jeu comme ceci, vous pouvez le changer dans le document config.",
+    "updateRequired": "La version de {$0} que vous utilisez est devenu dépassé. Pour la sécurité de votre dossier d'information de jeu, vous devez installer la version nouvelle de ALL pour continuer de l'utiliser.",
+    "depOutdated": "{$0} has detected that La version que vous utilisez est devenu dépassé. Pour la sécurité de votre dossier d'information de jeu, vous devez installer la version nouvelle pour continuer de l'utiliser.",
+    "fatalError": "{$0} a rencontré une erreur qui l'empêche de fonctionner. Veuillez fermer votre jeu et renseigner les développeurs dans le forum à {$0}.",
+    "integrityError": "Une mod enfant pour {$0} aurait la potentiel d'endommager dossier d'information de jeu. Vous devrez les tester un a un pour trouver le coupable et l'enlever.",
+}
